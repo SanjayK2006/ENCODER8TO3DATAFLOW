@@ -53,14 +53,12 @@ assign a1 =d2|d3|d6|d7;
 assign a2 =d4|d5|d6|d7;
 endmodule
 ```
-
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+*RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling*
 ![image](https://github.com/deesk13/ENCODER8TO3DATAFLOW/assets/150927063/9d8ef3da-54b2-49d2-bebb-65ada41bf1ca)
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+*TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling*
 ![image](https://github.com/deesk13/ENCODER8TO3DATAFLOW/assets/150927063/068ef33a-1ca4-4344-899f-cae0a08c057b)
-
 
 **RESULTS**
 the output of encoder to data flow has been executed successfully
